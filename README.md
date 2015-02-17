@@ -1,8 +1,6 @@
 # 3D-Printer-Models
 
-
 A collection of the models I've designed to print on my 3D printer.  All models are licensed under the Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
-
 
 ## Tablet Keyboard Stand
 
@@ -41,7 +39,16 @@ may need to scale it down a bit before printing.
  * [3D Printed Keychain Connector for USB Flash Drives][pk] at patshead.com
  * [Keychain Connector for USB Flash Drives][tk] at Thingiverse
 
+## Monitor Bracket for Debezeled QNIX QX2710 Monitors
 
+My pair of monitors are mounted on an articulated stand. I use these brackets to help keep them at a precise angle, and to keep them from warbling around.
+
+* [3D Printed Monitor Bracket][mp] at patshead.com
+* [Monitor Bracket for Debezeled QNIX QX2710 Monitors][mt] at thingiverse.com
+
+
+[mp]: http://blog.patshead.com/2015/02/3d-printed-monitor-bracket.html "3D Printed Monitor Bracket at patshead.com"
+[mt]: http://www.thingiverse.com/thing:685869 "Monitor Bracket for Debezeled QNIX QX2710 Monitors at thingiverse"
 [1]: http://blog.patshead.com/2014/07/3d-printed-tablet-stand-for-an-inexpensive-bluetooth-keyboard.html "3D-Printed Tablet Stand For an Inexpensive Bluetooth Keyboard"
 [2]: https://github.com/SolidCode/MCAD "MCAD library at GitHub"
 [3]: http://www.thingiverse.com/thing:393754 "Clip-on Tablet Stand for a Bluetooth Keyboard at Thingiverse"
