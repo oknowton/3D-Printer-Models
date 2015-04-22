@@ -46,7 +46,16 @@ My pair of monitors are mounted on an articulated stand. I use these brackets to
 * [3D Printed Monitor Bracket][mp] at patshead.com
 * [Monitor Bracket for Debezeled QNIX QX2710 Monitors][mt] at thingiverse.com
 
+# Cable Cover for Mount-It Monitor Stand
 
+This is a cover to hide the cables flowing out of the back of my "Mount-It!" brand dual monitor stand.
+
+
+ * [3D Printed Cable Cover For My Monitor Stand][c1] at patshead.com
+ * [Cable Cover For Mount-It Monitor Stand][c2] at thingiverse.com
+
+[c1]: http://blog.patshead.com/2015/04/a-3d-printed-cable-cover-for-my-monitor-stand.html "A 3D Printed Cable Cover For My Monitor Stand"
+[c2]: http://www.thingiverse.com/thing:786971 "Cable Cover for Mount-It Monitor Stand"
 [mp]: http://blog.patshead.com/2015/02/3d-printed-monitor-bracket.html "3D Printed Monitor Bracket at patshead.com"
 [mt]: http://www.thingiverse.com/thing:685869 "Monitor Bracket for Debezeled QNIX QX2710 Monitors at thingiverse"
 [1]: http://blog.patshead.com/2014/07/3d-printed-tablet-stand-for-an-inexpensive-bluetooth-keyboard.html "3D-Printed Tablet Stand For an Inexpensive Bluetooth Keyboard"
